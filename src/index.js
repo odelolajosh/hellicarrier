@@ -9,8 +9,8 @@ import theme from './styles/theme';
 import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
 
 const client = new ApolloClient({
-  // uri: 'https://api.spacex.land/graphql/',
-  uri: 'http://localhost:4000/graphql/',
+  uri: 'https://hellicarrier-v1.herokuapp.com/graphql',
+  // uri: 'http://localhost:4000/graphql/',
   cache: new InMemoryCache(),
 });
 
