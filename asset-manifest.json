@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hellicarrier/static/css/main.ae803f87.css",
-    "main.js": "/hellicarrier/static/js/main.a7495a87.js",
+    "main.js": "/hellicarrier/static/js/main.2979f329.js",
     "static/js/787.c4e7f8f9.chunk.js": "/hellicarrier/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/hellicarrier/index.html",
     "main.ae803f87.css.map": "/hellicarrier/static/css/main.ae803f87.css.map",
-    "main.a7495a87.js.map": "/hellicarrier/static/js/main.a7495a87.js.map",
+    "main.2979f329.js.map": "/hellicarrier/static/js/main.2979f329.js.map",
     "787.c4e7f8f9.chunk.js.map": "/hellicarrier/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae803f87.css",
-    "static/js/main.a7495a87.js"
+    "static/js/main.2979f329.js"
   ]
 }
